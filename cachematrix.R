@@ -1,9 +1,9 @@
 ## Assumption: All the input matrices are invertible
-##makeCacheMatrix returns a list that contains function to :
-##1. set value of matrix
-##2. get value of matrix
-##3. set inverse of matrix
-##4. get inverse of matrix
+## makeCacheMatrix returns a list that contains function to :
+## 1. set value of matrix
+## 2. get value of matrix
+## 3. set inverse of matrix
+## 4. get inverse of matrix
 
 ## This function takes a matrix as input, sets its value by caching it through 'set' function
 ## 'get' function returns this matrix  
